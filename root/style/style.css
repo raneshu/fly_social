@@ -1,0 +1,156 @@
+.navbar{
+ 
+  margin: 0px !important;
+  padding: 10px 40px;
+  border-radius: 0 !important;
+}
+
+.nav {
+   font-size: 16px;
+   font-weight: bold;
+
+}
+
+.jumbotron {
+  background-image:url('../../source_imagery/cover_img1.jpg');
+  height: 600px;
+  margin-bottom: 0px;
+  /*background-repeat: no-repeat;*/
+  
+}
+/*@media screen and (min-width: 991px) {
+  .jumbotron {
+    margin-left: 40px;
+ 
+  }
+}
+*/
+.jumbotron .container {
+  position: relative;
+  margin-top: 60px;
+  text-align: center;
+  }
+
+.jumbotron h1 {
+  font-size: 48px;  
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #FFF;
+
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #FFF;
+}
+.jumbotron button{
+  width: 200px;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.neighborhood-guides{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+.neighborhood-guides h2{
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p{
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+footer{
+    background-color: #b0b0b0;
+    padding: 15px 0;
+}
+footer p{
+  color: white;
+  
+}
+footer ul li small a{
+color: white;
+margin-top: 20px;
+}
+
+
+
+/*body { margin: 0px; font-family: Tahoma, Geneva, sans-serif; font-size: 14px; }
+ PAGE TOP 
+#pageTop {
+    background-color: gray;
+    height: 20px !important;
+    padding:15px;
+}
+#pageTop #pageTopWrap {
+    margin: 0px auto;
+    height: 90px;
+}
+#pageTop  #pageTopWrap  #pageTopLogo {
+       float: left;
+       margin-left: 70px;
+  }
+
+#pageTop  #pageTopWrap  #pageTopRest  #menu1 {
+    padding-right: 100px;
+    color: white;
+    float: right;
+}
+
+ #pageTop  #pageTopWrap  #pageTopRest a{
+   color: #FFF;
+   text-decoration: none;
+}
+
+
+
+#pageMiddle{
+    width: 1000px;
+    margin: 100px;
+    margin-bottom: 300px;
+    margin-top: 50px;
+    height: 375px;
+
+}*/
+/* PAGE BOTTOM */
+/*footer{
+    height: 10px;
+    padding:20px;
+    background-color: gray;
+
+}
+footer #menu2{
+   float: right;
+   text-decoration: none;
+   padding-right: 100px;
+
+
+}
+footer #menu2 a{
+   color: #FFF;
+   text-decoration: none;
+}
+
+footer #bottom_logo{
+    float:left;
+    margin-left: 50px;
+}
+*/
